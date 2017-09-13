@@ -2,7 +2,7 @@
 
 Calculator with basic operations.
 
-[Live Application](javascript-calculator-dlzl.surge.sh)
+[Live Application](https://javascript-calculator-dlzl.surge.sh)
 
 ### Project Goals
 
