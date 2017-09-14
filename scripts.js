@@ -82,7 +82,7 @@ $(document).ready(function() {
         previousOperator = operator;
       }
 
-      operator = $(this).text();r
+      operator = $(this).text();
       $('#display').text(operator);
       operations = true;
 
