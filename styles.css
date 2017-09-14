@@ -1,74 +1,74 @@
 body {
-    background-color: #854442;
-    font-family: "Courier New", Courier, monospace;
+  background-color: #854442;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .container {
-    display: none;
+  display: none;
 }
 
 #calculator {
-    background-color: #be9b7b;
-    border-radius: 3px;
-    height: 600px;
-    margin: 30px auto;
-    padding: 5px;
-    width: 350px;
+  background-color: #be9b7b;
+  border-radius: 3px;
+  height: 600px;
+  margin: 30px auto;
+  padding: 5px;
+  width: 350px;
 }
 
 #title {
-    margin-top: -5px;
+  margin-top: -5px;
 }
 
 .row {
-    margin-top: 14px;
+  margin-top: 14px;
 }
 
 #display {
-    background-color: #ffffff;
-    font-size: 50px;
-    height: 70px;
-    margin-bottom: 5px;
-    margin: auto;
-    padding: 0 5px;
-    text-align: right;
-    width: 320px;
+  background-color: #ffffff;
+  font-size: 50px;
+  height: 70px;
+  margin-bottom: 5px;
+  margin: auto;
+  padding: 0 5px;
+  text-align: right;
+  width: 320px;
 }
 
 .btn, .btn:focus, .btn:hover, .btn:active {
-    background-color: #3c2f2f;
-    color: #ffffff;
-    display: inline-block;
-    font-size: 2em;
-    margin: auto;
+  background-color: #3c2f2f;
+  color: #ffffff;
+  display: inline-block;
+  font-size: 2em;
+  margin: auto;
 }
 
 #allClear, #clearEntry {
-    height: 60px;
-    width: 155px;
+  height: 60px;
+  width: 155px;
 }
 
 .operations {
-    height: 60px;
-    width: 74px;
+  height: 60px;
+  width: 74px;
 }
 
 .numbers {
-    height: 60px;
-    width: 100px;
+  height: 60px;
+  width: 100px;
 }
 
 #zero {
-    height: 60px;
-    width: 208px;
+  height: 60px;
+  width: 208px;
 }
 
 #equals {
-    height: 60px;
-    width: 100px;
+  height: 60px;
+  width: 100px;
 }
 
 footer>a:link, footer>a:visited, footer>a:hover, footer>a:active {
-    color: #ffffff;
-    text-decoration: none;
+  color: #ffffff;
+  text-decoration: none;
 }
